@@ -1158,6 +1158,12 @@ h1, h2, h3, h4, h5, h6, figure {
 #fh5co-started {
   background: rgba(42, 51, 86, 0.9);
 }
+#fh5co-started p {
+  color: white;
+}
+#fh5co-started h3 {
+  color: white;
+}
 #fh5co-started .fh5co-heading h2 {
   color: #fff;
   margin-bottom: 20px !important;
@@ -1678,7 +1684,7 @@ h1, h2, h3, h4, h5, h6, figure {
   width: 100%;
   height: 100%;
   z-index: 9999;
-  background: url(../images/loader.gif) center no-repeat #fff;
+  background: url(../images/loader.gif) center no-repeat black;
 }
 
 .js .animate-box {

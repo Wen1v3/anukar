@@ -6,10 +6,10 @@
 				<div class="col-md-7 text-left">
 					<div class="display-t">
 						<div class="display-tc animate-box" data-animate-effect="fadeInUp">
-							<h1 class="mb30">Let us build brands together shall we?</h1>
+							<h1 class="mb30">Provide fresh air for an healthier living</h1>
 							<p>
-								<a href="http://gettemplates.co/" target="_blank" class="btn btn-primary">Get Started</a>  <em class="or">or</em> 
-								<a href="https://vimeo.com/channels/staffpicks/93951774" class="link-watch popup-vimeo">Watch Video</a>
+								<a href="contact.php" target="_blank" class="btn btn-primary">Get In Touch</a>  <em class="or">or</em> 
+								<a href="https://www.youtube.com/watch?v=ozaw9QhxkQU" class="link-watch popup-vimeo">Watch Video</a>
 							</p>
 						</div>
 					</div>

@@ -21,8 +21,8 @@
 			<div class="row animate-box row-pb-md">
 				<div class="col-md-8 col-md-offset-2 text-left fh5co-heading">
 					<span>Productive Staff</span>
-					<h2>Meet Our Staff</h2>
-					<p>Dignissimos asperiores vitae velit veniam totam fuga molestias accusamus alias autem provident. Odit ab aliquam dolor eius.</p>
+					<h2>About AAVIS (ARACL)</h2>
+					<p>Auckland based AAVIS Refrigeration & Air Conditioning Ltd was established in 2010. Anukar Prasad (Managing Director) who has previously worked for HVAC company for more than 10 years, founded AAVIS in 2010. With Anukar's extensive knowledge and experience in HVAC, makes him stand out from other amatuer technicians who do not deliver as per client's requirements.</p>
 				</div>
 			</div>
 			<div class="row">

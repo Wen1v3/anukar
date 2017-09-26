@@ -1,69 +1,37 @@
-	<div id="fh5co-started">
-		<div class="container">
-			<div class="row animate-box">
-				<div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
-					<span>Let's work together</span>
-					<h2>Try this template for free !!!</h2>
-					<p>Dignissimos asperiores vitae velit veniam totam fuga molestias accusamus alias autem provident. Odit ab aliquam dolor eius.</p>
-					<p><button type="submit" class="btn btn-default">Get In Touch</button></p>
-				</div>
-			</div>
-		</div>
-	</div>
-
-	<footer id="fh5co-footer" role="contentinfo">
+	<footer id="fh5co-started" role="contentinfo">
 		<div class="container">
 			<div class="row row-pb-md">
-				<div class="col-md-4 fh5co-widget ">
-					<h3>Concept.</h3>
-					<p>Facilis ipsum reprehenderit nemo molestias. Aut cum mollitia reprehenderit. Eos cumque dicta adipisci architecto culpa amet.</p>
-					<p><a href="#">Learn More</a></p>
+				<div class="col-sm-4 fh5co-widget">
+					<div class="text-center"><img src="images/templatemo_icon_home.png" style="height:60px"><h3>About AAVIS (ARACL)</h3></div>				
+					<p>Auckland based AAVIS Refrigeration & Air Conditioning Ltd was established in 2010. Anukar Prasad (Managing Director) who has previously worked for HVAC company for more than 10 years, founded AAVIS in 2010. With Anukar's extensive knowledge and experience in HVAC, makes him stand out from other amatuer technicians who do not deliver as per client's requirements.</p>
 				</div>
-				<div class="col-md-2 col-sm-4 col-xs-6 col-md-push-1 ">
-					<ul class="fh5co-footer-links">
-						<li><a href="#">About</a></li>
-						<li><a href="#">Help</a></li>
-						<li><a href="#">Contact</a></li>
-						<li><a href="#">Terms</a></li>
-						<li><a href="#">Meetups</a></li>
-					</ul>
+				<div class="col-sm-4 fh5co-widget">
+					<div class="text-center"><img src="images/templatemo_icon_cube.png" style="height:60px"><h3>Building Sustainability</h3></div>
+					<p>Market research proves that a comfortable living is built in terms of HVAC condition. For a healthier and Safer environment, whether it is your home or your office, contact us: Book our service <a href="contact.php">here</a>.</p>
 				</div>
-
-				<div class="col-md-2 col-sm-4 col-xs-6 col-md-push-1 ">
-					<ul class="fh5co-footer-links">
-						<li><a href="#">Shop</a></li>
-						<li><a href="#">Privacy</a></li>
-						<li><a href="#">Testimonials</a></li>
-						<li><a href="#">Handbook</a></li>
-						<li><a href="#">Held Desk</a></li>
-					</ul>
-				</div>
-
-				<div class="col-md-2 col-sm-4 col-xs-6 col-md-push-1 ">
-					<ul class="fh5co-footer-links">
-						<li><a href="#">Find Designers</a></li>
-						<li><a href="#">Find Developers</a></li>
-						<li><a href="#">Teams</a></li>
-						<li><a href="#">Advertise</a></li>
-						<li><a href="#">API</a></li>
-					</ul>
+				<div class="col-sm-4 fh5co-widget">
+					<div class="text-center"><img src="images/templatemo_icon_tick.png" style="height:60px"><h3>No Obligation Quote!</h3></div>
+					<p>100% SATISFACTION GAURANTEED! We offer a no obligation quote on installations. Book this service <a href="contact.php">here</a>.</p>
 				</div>
 			</div>
 
-			<div class="row copyright">
-				<div class="col-md-12 text-center">
-					<p>
-						<small class="block">&copy; 2016 Free HTML5. All Rights Reserved.</small> 
-						<small class="block">Designed by <a href="http://gettemplates.co/" target="_blank">GetTemplates.co</a> Demo Images: <a href="http://pixeden.com/" target="_blank">Pixeden</a> &amp; <a href="http://unsplash.com/" target="_blank">Unsplash</a></small>
-					</p>
-					<p>
-						<ul class="fh5co-social-icons">
-							<li><a href="#"><i class="icon-twitter"></i></a></li>
-							<li><a href="#"><i class="icon-facebook"></i></a></li>
-							<li><a href="#"><i class="icon-linkedin"></i></a></li>
-							<li><a href="#"><i class="icon-dribbble"></i></a></li>
-						</ul>
-					</p>
+			<div class="row">
+				<div class="col-sm-6 text-center">
+                    <p>PROUD MEMBER OF:</p>
+					<img src="images/Site_Safe_logo_(colour).jpg" width="308" height="120">
+					<img src="images/First Aid.gif" width="120" height="120">
+				</div>
+				<div class="col-sm-6 text-center">
+					<p>CALL NOW: 021 0299 5922</p> 
+					<img src="images/247-plumbing-emergency-services-chicago.gif" alt="" width="165">
+					<br>
+					<br>
+					<ul class="fh5co-social-icons">
+						<li><a href="#"><i class="icon-twitter"></i></a></li>
+						<li><a href="#"><i class="icon-facebook"></i></a></li>
+						<li><a href="#"><i class="icon-linkedin"></i></a></li>
+						<li><a href="#"><i class="icon-dribbble"></i></a></li>
+					</ul>
 				</div>
 			</div>
 

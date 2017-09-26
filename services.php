@@ -6,7 +6,7 @@
 				<div class="col-md-7 text-left">
 					<div class="display-t">
 						<div class="display-tc animate-box" data-animate-effect="fadeInUp">
-							<h1 class="mb30">Our Services</h1>
+							<h1 class="mb30">Air Conditioning</h1>
 						</div>
 					</div>
 				</div>
@@ -22,8 +22,13 @@
 				<div class="col-md-8 col-md-offset-2 text-left animate-box" data-animate-effect="fadeInUp">
 					<div class="fh5co-heading">
 						<span>We're expert</span>
-						<h2>What We Do</h2>
-						<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+						<h2>AIR CONDITIONING Services in Auckland</h2>
+						<br>
+						<p>We offer climate control solutions for all seasons, installing state-of-art systems that provide cool fresh air when the temperature soars and warmth in the colder months-all at the flick of a switch.</p>
+						<p>We cater for both domestic and commercial sectors. This can range from public sector buildings, offices, computer rooms, nightclubs, residential homes and apartments.</p>
+						<p>Why Do Our Clients Recommend Us?</p>
+						<p>Attentive design, excellent systems and thorough testing of all of all our installations guarantee we meet the highest possible industry standards. Our fully qualified and experienced staffs from our test and service engineers, sales and customer support, are here to give you top quality service every time with high performance, cost-effective solutions for all your air conditioning  requirements.</p>
+						<p>Begin to enjoy the benefits of reliable Air Conditioning! Contact us today for a FREE Quotation.</p>
 					</div>
 				</div>
 			</div>
@@ -33,9 +38,8 @@
 						<span class="icon">
 							<i class="icon-eye"></i>
 						</span>
-						<h3>Retina Ready</h3>
-						<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-						<p><a href="#">Learn more</a></p>
+						<h3>Indoor Unit</h3>
+						<p>A fan blows the hot indoor air over a heat exchanging coil through which cold refrigerant flows. The cold refrigerant absorbs the heat from the air and cooled air is blown into the room.</p>
 					</div>
 				</div>
 				<div class="col-md-4 col-sm-6 ">
@@ -43,59 +47,37 @@
 						<span class="icon">
 							<i class="icon-command"></i>
 						</span>
-						<h3>Fully Responsive</h3>
-						<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-						<p><a href="#">Learn more</a></p>
+						<h3>Copper Piping</h3>
+						<p>The refrigerant circulates through the units and the piping and takes the heat from the indoor unit to the outdoor unit.</p>
 					</div>
 				</div>
-				<div class="clearfix visible-sm-block"></div>
 				<div class="col-md-4 col-sm-6 ">
 					<div class="feature-center animate-box" data-animate-effect="fadeInUp">
 						<span class="icon">
 							<i class="icon-power"></i>
 						</span>
-						<h3>Web Starter</h3>
-						<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-						<p><a href="#">Learn more</a></p>
+						<h3>Outdoor Unit</h3>
+						<p>Through compression, the refrigerant gas is heated and its boiling point increases. In the outdoor unit the obtained heat through compression is released to the outdoor air by means of a fan which blows the outdoor air over a heat exchanging coil.</p>
 					</div>
 				</div>
-
-				<div class="clearfix visible-md-block"></div>
-
 				<div class="col-md-4 col-sm-6 ">
 					<div class="feature-center animate-box" data-animate-effect="fadeInUp">
 						<span class="icon">
 							<i class="icon-eye"></i>
 						</span>
-						<h3>Retina Ready</h3>
-						<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-						<p><a href="#">Learn more</a></p>
+						<h3>Refrigerant</h3>
+						<p>The liquid refrigerant flows back to the indoor unit.</p>
 					</div>
 				</div>
-				<div class="clearfix visible-sm-block"></div>
 				<div class="col-md-4 col-sm-6 ">
 					<div class="feature-center animate-box" data-animate-effect="fadeInUp">
 						<span class="icon">
 							<i class="icon-command"></i>
 						</span>
-						<h3>Fully Responsive</h3>
-						<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-						<p><a href="#">Learn more</a></p>
+						<h3>Indoor Unit</h3>
+						<p>Back in the indoor unit, the refrigerant is decompressed and thus enabled to extract heat form the indoor air.</p>
 					</div>
 				</div>
-				<div class="col-md-4 col-sm-6 ">
-					<div class="feature-center animate-box" data-animate-effect="fadeInUp">
-						<span class="icon">
-							<i class="icon-power"></i>
-						</span>
-						<h3>Web Starter</h3>
-						<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-						<p><a href="#">Learn more</a></p>
-					</div>
-				</div>
-
-				<div class="clearfix visible-md-block"></div>
-
 			</div>
 		</div>
 	</div>

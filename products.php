@@ -6,7 +6,7 @@
 				<div class="col-md-7 text-left">
 					<div class="display-t">
 						<div class="display-tc animate-box" data-animate-effect="fadeInUp">
-							<h1 class="mb30">Our Creative Products</h1>
+							<h1 class="mb30">Refrgeration</h1>
 						</div>
 					</div>
 				</div>
@@ -21,12 +21,37 @@
 			<div class="row row-pb-md">
 				<div class="col-md-8 col-md-offset-2 text-left fh5co-heading  animate-box">
 					<span>Want Some Cool Stuff</span>
-					<h2>Recent Products</h2>
-					<p>Dignissimos asperiores vitae velit veniam totam fuga molestias accusamus alias autem provident. Odit ab aliquam dolor eius.</p>
+					<h2>REFRIGERATION Services in Auckland</h2>
+					<br>
+					<p>We specialise in installations, breakdown repair & maintenance of all Commercial Refrigeration Equipment.</p>
+					<p>AAVIS is one of the fastest growing refrigeration and air conditioning businesses servicing all of Auckland region</p>
+					<p>With our emergency service, we are available for you 24 hours a day, seven days a week.</p>
 				</div>
 			</div>
 
 			<div class="row">
+				<?php
+					$contents = ["Break down and repair", 
+						"Process cooling", 
+						"Temperature controlled and pressurized",
+						"pack houses and food preparation areas",
+						"Racked, chilled storage areas",
+						"Bespoke systems for laboratory and other research environments",
+						"Ultra Low Temperature cabinets for storing scientific samples",
+						"Food Production Facilities - Cool Rooms",
+						"Chilled Counter Displays - Multi Deck Cases - Island Site Freezers",
+						"Frozen Food Displays - Bottle Coolers - Ice Makers",
+						"Blast Chillers - Blast Freezers"];
+					$i = 0;
+					foreach ($contents as $content) {
+						$i++;
+						echo '<div class="col-md-4 col-sm-6 animate-box" data-animate-effect="fadeIn">';
+						echo '<img src="images/work-' . ($i % 6 + 1) . '.jpg" alt="Free HTML5 Website Template by gettemplates.co" class="img-responsive">';
+						echo '<div style="position:relative; top:-90px; left:20px;"><h3 style="color:white; width:300px;">' . $content . '</h3></div>';
+						echo '</div>';
+					}
+				?>
+				<!--
 				<div class="col-md-4 col-sm-6 fh5co-project animate-box" data-animate-effect="fadeIn">
 					<a href="#"><img src="images/work-1.jpg" alt="Free HTML5 Website Template by gettemplates.co" class="img-responsive">
 						<div class="fh5co-copy">
@@ -126,8 +151,7 @@
 						</div>
 					</a>
 				</div>
-
-
+				
 				<div class="col-md-12 text-center">
 					<nav aria-label="Page navigation">
 					  <ul class="pagination">
@@ -150,6 +174,7 @@
 					</nav>
 				</div>
 
+				!-->
 			</div>
 		</div>
 		
