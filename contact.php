@@ -19,18 +19,19 @@
 	<div id="fh5co-contact">
 		<div class="container">
 			<div class="row">
-				<div class="col-md-5 col-md-push-1 animate-box">
+				<div class="col-md-6 animate-box">
 					
 					<div class="fh5co-contact-info">
-						<h3>Contact Information</h3>
+						<h3>Contact AAVIS</h3>
+						<p>We operate 24 hours a day, 7 days a week... Call us at anytime, we are here to serve you.</p>
 						<ul>
-							<li class="address">198 West 21th Street, <br> Suite 721 New York NY 10016</li>
-							<li class="phone"><a href="tel://1234567920">+ 1235 2355 98</a></li>
-							<li class="email"><a href="mailto:info@yoursite.com">info@yoursite.com</a></li>
-							<li class="url"><a href="http://gettemplates.co">gettemplates.co</a></li>
+							<li class="phone">Mobile 24/7: (+64) 021 0299 5922</li>
+							<li class="url">Office: (+64) 09 930 7940</li>
+							<li class="email"><a href="mailto:info@aavis.co.nz">info@aavis.co.nz</a></li>
+							<li class="address">306 Neilson Street, <br> Onehunga, Auckland</li>
 						</ul>
 					</div>
-
+					<iframe width="100%" height="300px" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3189.5823103754187!2d174.80486911621117!3d-36.92424997992333!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6d0d48d2ff04f0ed%3A0x34b221aef2cf4ccf!2s306+Neilson+St%2C+Onehunga%2C+Auckland+1061!5e0!3m2!1sen!2snz!4v1495763327935"></iframe>
 				</div>
 				<div class="col-md-6 animate-box">
 					<h3>Get In Touch</h3>

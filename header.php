@@ -57,15 +57,14 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-xs-2 text-left">
-					<div id="fh5co-logo"><a href="index.php"><img src="images/logo.JPG"></a></div>
+					<div id="fh5co-logo"><a href="index.php"><img src="images/aavis.png" height="40px"></a></div>
 				</div>
 				<div class="col-xs-10 text-right menu-1">
 					<ul>
 						<li <?php if (basename($_SERVER['PHP_SELF']) == "index.php" || basename($_SERVER['PHP_SELF']) == "") echo 'class="active"'; ?>><a href="index.php">Home</a></li>
+						<li <?php if (basename($_SERVER['PHP_SELF']) == "products.php") echo 'class="active"'; ?>><a href="products.php">Refrigeration</a></li>
 						<li <?php if (basename($_SERVER['PHP_SELF']) == "services.php") echo 'class="active"'; ?>><a href="services.php">Air Conditioning</a></li>
-						<li <?php if (basename($_SERVER['PHP_SELF']) == "products.php") echo 'class="active"'; ?>><a href="products.php">Refrgeration</a></li>
-						<li <?php if (basename($_SERVER['PHP_SELF']) == "about.php") echo 'class="active"'; ?>><a href="about.php">About</a></li>
-						<li <?php if (basename($_SERVER['PHP_SELF']) == "blog.php") echo 'class="active"'; ?>><a href="blog.php">Blog</a></li>
+						<li <?php if (basename($_SERVER['PHP_SELF']) == "blog.php") echo 'class="active"'; ?>><a href="blog.php">Testimonials</a></li>
 						<li <?php if (basename($_SERVER['PHP_SELF']) == "contact.php") echo 'class="active"'; ?>><a href="contact.php">Contact</a></li>
 					</ul>
 				</div>

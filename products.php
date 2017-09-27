@@ -46,7 +46,7 @@
 					foreach ($contents as $content) {
 						$i++;
 						echo '<div class="col-md-4 col-sm-6 animate-box" data-animate-effect="fadeIn">';
-						echo '<img src="images/work-' . ($i % 6 + 1) . '.jpg" alt="Free HTML5 Website Template by gettemplates.co" class="img-responsive">';
+						echo '<img src="images/work-' . ($i % 5 + 1) . '.jpg" alt="Free HTML5 Website Template by gettemplates.co" class="img-responsive">';
 						echo '<div style="position:relative; top:-90px; left:20px;"><h3 style="color:white; width:300px;">' . $content . '</h3></div>';
 						echo '</div>';
 					}
